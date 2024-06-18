@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TrueZaher
 - 👀 I’m interested in VIDEO GAMES
-- 🌱 I’m currently learning C#
-- 📫 How to reach me TrueZaher#6886
+- 🌱 I’m currently learning JS
+- 📫 How to reach me @TrueZaher on Discord.
 
 <!---
 TrueZaher/TrueZaher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
